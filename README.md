@@ -1,1 +1,1 @@
-CreateTestFile 10000000
+Create 10 million lines run: CreateTestFile 10000000
